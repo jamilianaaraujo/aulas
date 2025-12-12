@@ -2,7 +2,7 @@ name: Validar HTML
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "prototipo-principios-design" ]
 jobs:
   validar-html:
     runs-on: ubuntu-latest
